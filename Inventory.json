@@ -1,0 +1,57 @@
+{
+    "TypesofRice": [
+        {
+            "name": "Basumati",
+            "weight": 2,
+            "price": 200
+        },
+        {
+            "name": "Bullet",
+            "weight": 4,
+            "price": 300
+        },
+        {
+            "name": "abc",
+            "weight": 8,
+            "price": 100
+        }
+
+    ],
+    "TypesofPulses": [
+        {
+            "name": "GreenGram",
+            "weight": 4,
+            "price": 80
+        },
+        {
+            "name": "Moong Dal",
+            "weight": 2,
+            "price": 100
+        },
+        {
+            "name": "Dal",
+            "weight": 6,
+            "price": 90
+        }
+
+    ],
+    "TypesofWheats": [
+        {
+            "name": "Wheat1",
+            "weight": 7,
+            "price": 100
+        },
+        {
+            "name": "Wheat2",
+            "weight": 6,
+            "price": 110
+        },
+        {
+            "name": "Wheat3",
+            "weight": 2,
+            "price": 90
+        }
+
+    ]
+
+}
